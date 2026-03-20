@@ -1,0 +1,1 @@
+PATH=$(readlink -e $testdir/scripts) bin/bcshell tests/14.in

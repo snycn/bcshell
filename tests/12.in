@@ -1,0 +1,1 @@
+tests/scripts/veryslow.sh & tests/scripts/slow.sh & tests/scripts/fast.sh
