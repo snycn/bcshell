@@ -1,0 +1,2 @@
+ls Makefile .gitignore README.md > tests/13.tmp
+cat tests/13.tmp
